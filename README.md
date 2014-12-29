@@ -11,7 +11,7 @@
 * [kohana-minion](https://github.com/kohana-minion/core) is not strictly required, but this was written with minion/command line interfaces in mind.
 
 ## Compatibility
-* Written for Kohana 3.2.
+* Written for Kohana 3.3 and 3.2.
 
 ## Usage
 
